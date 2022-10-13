@@ -1,6 +1,6 @@
 #Header
 
-## Subheader
+## Subhead
 
 ## another subheader
 
